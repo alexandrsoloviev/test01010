@@ -17,5 +17,7 @@ public class Main {
         } else if (age >= 65 && age <= 120) {
             return ageCategory = "Senior";
         }else return ageCategory = "error";
+
+        //  Я ВНЕС ИЗМИНЕНИЯ
     }
 }
